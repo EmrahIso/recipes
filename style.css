@@ -4,8 +4,23 @@
     padding: 0;
     margin: 0;
     box-sizing: inherit;
+    font-family: 'Verdana', sans-serif;
 }
 
 body {
     box-sizing: border-box;
+    background-color: 	#febd69;
+}
+
+.main-heading {
+    text-transform: uppercase;
+    color: white;
+}
+
+.list-items a {
+    color: 	#232f3e;
+}
+
+ul li {
+    font-weight: 700;
 }
